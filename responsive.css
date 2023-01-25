@@ -7,14 +7,18 @@ h1{
     border: 1px solid black;
     width: 500px;
     padding-left: 10px;
+    margin-left: 10px;
+    background-color: grey;
 }
 .beef h2{
     float: right;
     border: 1px solid black;
     background-color: aqua;
+    margin-top: 0;
 }
 .beef p{
-    margin-top: 80px;
+    margin-top: 30px;
+    
 }
 .chicken{
     border: 1px solid black;
@@ -22,27 +26,33 @@ h1{
     padding-left: 10px;
     margin-right: 30px;
     margin-left: 30px;
+    background-color: grey;
+    
 }
 .chicken h3{
     float: right;
     border: 1px solid black;
     background-color: blue;
+    margin-top: 0;
 }
 .chicken p{
-    margin-top: 80px;
+    margin-top: 30px;
 }
 .sushi{
     border: 1px solid black;
     width: 500px;
     padding-left: 10px;
+    margin-right: 10px;
+    background-color: gray
 }
 .sushi h4{
     float: right;
     border: 1px solid black;
     background-color: brown;
+    margin-top: 0;
 }
 .sushi p{
-    margin-top: 80px;
+    margin-top: 30px;
 }
 .MENU{
     display: flex;
